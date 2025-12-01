@@ -45,7 +45,3 @@ Result returns:
 | JavaScript | Game logic + Events |
 | LocalStorage | Score persistence |
 
----
-
-## 📂 Project Structure
-
